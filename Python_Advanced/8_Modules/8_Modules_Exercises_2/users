@@ -1,0 +1,7 @@
+{"id": 1, "user": "dr", "email": "p", "password": "123", "products": []} 
+{"id": 2, "user": "d", "email": "rrr", "password": "123", "products": [2, 1, 2, 2, 3, 2, 3, 2, 2, 3, 3, 3]}
+{"id": 3, "user": "Denislav", "email": "Petrov", "password": "12345", "products": []}
+{"id": 1, "user": "dff", "email": "23", "password": "123", "products": []} 
+{"id": 1, "user": "drrr", "email": "444", "password": "123", "products": []} 
+{"id": 1, "user": "Deni", "email": "P", "password": "123", "products": [3]}
+{"id": 1, "user": "deni", "email": "ddddd", "password": "123", "products": [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]}

@@ -1,0 +1,3 @@
+{"id": 1, "name": "Lion", "pic": "products_db/lion.png", "price": 20, "quantity": 530}
+{"id": 2, "name": "Tiger", "pic": "products_db/tiger.jpg", "price": 30, "quantity": 100}
+{"id": 3, "name": "Puma", "pic": "products_db/puma.jpg", "price": 10, "quantity": 100}

@@ -1,0 +1,3 @@
+{id:1, name:"Deni",img_path:"lion.png",count:3},
+{id:2,name:"Keti",img_path:"tiger.jpg",count:3},
+{id:3,name:"Marto",img_path:"puma.jpg",count:3}
